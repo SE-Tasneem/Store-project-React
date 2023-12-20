@@ -1,1 +1,2 @@
-# Store-project-React-
+# Store-project-React
+For learning
